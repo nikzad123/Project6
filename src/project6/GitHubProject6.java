@@ -6,7 +6,7 @@ public class GitHubProject6 {
 		
 		System.out.println("We will start new Project Soon...");
 		
-		
+		System.out.println("Close the Data");
 		
 	}
 
