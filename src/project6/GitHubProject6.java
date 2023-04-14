@@ -11,6 +11,8 @@ public class GitHubProject6 {
 		
 		System.out.println("New Comments.....");
 		
+		System.out.println("New added Problems ...");
+		
 		// New Comments from GITHub
 	}
 
