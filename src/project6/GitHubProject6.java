@@ -13,6 +13,8 @@ public class GitHubProject6 {
 		
 		System.out.println("New added Problems ...");
 		
+		String name = "Mohammad";
+		
 		// New Comments from GITHub
 	}
 
